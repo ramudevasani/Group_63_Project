@@ -1,0 +1,6 @@
+[submodule "FilmFusion-Frontend"]
+	path = FilmFusion-Frontend
+	url = https://github.com/ramudevasani/FilmFusion-Frontend.git
+[submodule "FilmFusion"]
+	path = FilmFusion
+	url = https://github.com/ramudevasani/FilmFusion.git
